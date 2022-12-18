@@ -1,0 +1,10 @@
+database:
+  host: "company"
+  port: "3306"
+  username: "Elayn"
+  password: "![mnYoE30jZh0=]"
+  
+http:
+  host: "localhost"
+  port: "8081"
+  path: "/api" 
